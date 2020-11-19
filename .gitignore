@@ -105,4 +105,4 @@ media/
 *.db
 *.pid
 
-/db_django
+/static
